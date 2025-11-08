@@ -22,7 +22,7 @@ Fully responsive design, ensuring the site remains polished on smartphones, tabl
 
 Clean separation of structure, style and behavior with HTML, external CSS and vanilla JavaScript.
 
-COPYRIGNT
+COPYRIGHT
 Copyright (c) 2025 victor kamau
 
 All rights reserved.
